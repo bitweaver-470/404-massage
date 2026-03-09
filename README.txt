@@ -1,6 +1,6 @@
 # Massage NoMosaic Mod
 
-Massageのモザイクを除去（非表示・極小化）するModです。
+Massageの表現を修正します。
 UE4SSフレームワークを利用して動作します。
 
 ## 導入方法 (Installation)
@@ -36,3 +36,4 @@ UE4SSフレームワークを利用して動作します。
 
 ## クレジット・利用技術
 - Unreal Engine 4 Scripting System (UE4SS) v3.0.1
+
